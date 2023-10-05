@@ -1,0 +1,2 @@
+# workplace
+Bare bones template.
